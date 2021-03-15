@@ -2,12 +2,12 @@
 <div>
     <img align="right" src="./Github-Profile-Me.gif"/>
     <h2>
-        <img src="./animat-linechart-color.gif" height="80px" style="object-position: 0 20px;"/>
+        <img src="./animat-linechart-color-s.gif" height="80px"/>
         About me
     </h2>
     <p>I am Junior software developer and a Artificial Inteligence enthusiast.</p>
     <h2>
-        <img src="./animat-sign-post-color.gif" height="80px" style="object-position: 0 20px;"/>
+        <img src="./animat-sign-post-color-s.gif" height="80px"/>
         Interests
     </h2>
     <ul>
