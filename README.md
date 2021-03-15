@@ -18,7 +18,7 @@
     </ul>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<br><br><br><br><br>
+<br><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=erick-incs&show_icons=true&theme=tokyonight" />
 </a>
 <br><br>
