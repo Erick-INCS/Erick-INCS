@@ -1,7 +1,6 @@
 ## Hi there, I'm Erick 👋
 <div>
     <img align="right" src="./Github-Profile-Me.gif"/>
-    <br>
     <h2>
         <img src="./animat-linechart-color.gif" height="80px" style="object-position: 0 20px;"/>
         About me
