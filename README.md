@@ -18,8 +18,10 @@
     </ul>
 </div>
 <br><br><br>
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=erick-incs&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-incs&layout=compact&langs_count=6&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-incs&layout=compact&langs_count=6&theme=tokyonight" />
+</p>
 <br><br>
 
 <p align="center">
