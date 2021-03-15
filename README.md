@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+![My photo](./Github-Profile-Me.gif)
 
 <!--
 **Erick-INCS/Erick-INCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
