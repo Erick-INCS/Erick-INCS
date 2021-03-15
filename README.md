@@ -25,7 +25,19 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-incs&layout=compact&langs_count=6&theme=tokyonight" />
 </a>
+<br><br>
 
+<p align="center">
+    <a href="https://github.com/Erick-INCS" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/-Erick--INCS-181717?style=flat-square&logo=GitHub&logoColor=white">
+    </a>
+    <a href="https://twitter.com/incspn" target="_blank">
+        <img alt="Twitter" src="https://img.shields.io/badge/-@incspn-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/erick-arroyo-8360671a1" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
+    </a>
+</p>
 
 <!--
 **Erick-INCS/Erick-INCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
